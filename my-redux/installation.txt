@@ -1,0 +1,3 @@
+npx create-react-app
+npm install redux react-redux redux-thunk
+install react and redux extension on your broswer
