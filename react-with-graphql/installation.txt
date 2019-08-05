@@ -1,0 +1,3 @@
+npx create-react-app react-graphql
+npm start
+npm install apollo-boost react-apollo graphql-tag graphql
