@@ -1,0 +1,26 @@
+Project Discription
+Project title: COVID-19 updates
+In this project we use Flask as backend and React as frontend. And we use COVID-19 API to get original data and worked on it. We get data from COVID-19 API using request library in python-flask and make some operation on that data and then send it to React to show it on our website.
+Task: When you run this project you can see homepage and there are Country Name shown on the page   and your task is when you select Country name the detail should be shown just below the Country name. Make some changes in colors and display also that make it beautiful.
+Country detail should be like this:
+Country: Pakistan
+NewConfirmed: 316
+TotalConfirmed: 5011
+NewDeaths: 20
+TotalDeaths: 86
+NewRecovered: 35
+TotalRecovered: 762
+Data: 2020-4-12
+
+
+
+#Important 
+Submission Process
+email: chhanzaila.maqsood@studentpartner.com
+You have to submit the project source file on the above mentioned email address.
+If you need more detail contact are given below:
+Contact : +92-335-345-15-15
+          +92-335-702-46-60
+
+Submission Deadline: 11:00PM
+You have to send us your Name, University, Email, Phone Number, src file. So that we can contact you and and send you the vouncher of 100$ Azure Credits.
